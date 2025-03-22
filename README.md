@@ -1,4 +1,4 @@
-# nodejs-ecommerce-microservice
+# nodejs-microservice
 
 
 ## Software Architecture
